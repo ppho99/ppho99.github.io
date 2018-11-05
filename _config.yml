@@ -4,7 +4,7 @@ SEOTitle: 胡峰的博客 | 契理在寸心
 header-img: img/post-bg-desk.jpg
 email: ppho99@gmail.com
 description: "Thinking and Doing."
-keyword: "契理在寸心, hufeng, ppho99, 邱柏荧, iOS, Apple, iPhone"
+keyword: "契理在寸心, hufeng, ppho99, 功夫熊猫, iOS, Apple, iPhone"
 url: "http://ppho99.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/ppho99/ppho99.github.io.git" # you code repository
@@ -61,8 +61,8 @@ kramdown:
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: f2c84e7629bb1446c1a4                            #生成的clientID
-  clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
+  clientID: 841ca1a02d69d3e0d275                            #生成的clientID
+  clientSecret: e7f0bca55edba68e7e319cbf1f0b45514824c1ea    #生成的clientSecret
   repo: ppho99.github.io    #仓库名称
   owner: ppho99    #github用户名
   admin: ppho99
@@ -73,10 +73,10 @@ gitalk:
 
 # Analytics settings
 # Baidu Analytics
-ba_track_id: b50bf2b12b5338a1845e33832976fd68
+ba_track_id: 25baa9799d04210662ec5dd66f4db779
 
 # Google Analytics
-ga_track_id: 'UA-90855596-1'            # Format: UA-xxxxxx-xx
+ga_track_id: 'UA-128640785-1'            # Format: UA-xxxxxx-xx
 ga_domain: hufeng.ink              # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
 
 
