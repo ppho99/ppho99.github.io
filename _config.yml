@@ -1,7 +1,7 @@
 # Site settings
 title: HuFeng Blog
 SEOTitle: 胡峰的博客 | 契理在寸心
-header-img: img/post-bg-rwd.jpg
+header-img: img/post-bg-desk.jpg
 email: ppho99@gmail.com
 description: "Thinking and Doing."
 keyword: "契理在寸心, hufeng, ppho99, 功夫熊猫, techfin, fintech, biz，blockchain"
@@ -12,7 +12,7 @@ github_repo: "https://github.com/ppho99/ppho99.github.io.git" # you code reposit
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "了解世界的真相，相信未来的美好!"
-sidebar-avatar:/img/hufeng.jpg     # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/about-BY-gentle.jpg    # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
