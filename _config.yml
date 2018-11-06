@@ -1,10 +1,10 @@
 # Site settings
 title: HuFeng Blog
 SEOTitle: 胡峰的博客 | 契理在寸心
-header-img: img/firstpage01.jpg
+header-img: img/post-bg-rwd.jpg
 email: ppho99@gmail.com
 description: "Thinking and Doing."
-keyword: "契理在寸心, hufeng, ppho99,功夫熊猫, iOS, Apple, iPhone，blockchain"
+keyword: "契理在寸心, hufeng, ppho99, 功夫熊猫, techfin, fintech, biz，blockchain"
 url: "https://ppho99.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/ppho99/ppho99.github.io.git" # you code repository
@@ -24,7 +24,7 @@ github_username:    ppho99
 # facebook_username:  ppho99
 twitter_username:   ppho99
 jianshu_username:   6f4aca2f974e
-wechat_username:   study-note
+wechat_username:   gh_2b1d3ead3be4
 
 
 
@@ -99,9 +99,6 @@ service-worker: true
 # Friends
 friends: [
     {
-        # title: "WY",
-        # href: "http://zhengwuyang.com"
-    },{
         title: "珈瑜的博客",
         href: "https://kkjiayu.github.io/"
     },{
