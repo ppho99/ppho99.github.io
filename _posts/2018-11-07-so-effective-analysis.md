@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      这样分析才有效
-subtitle:   
+subtitle:   智者不惑的法宝
 date:       2018-11-07
 author:     Hu Feng
 header-img: img/leaves-fall-colors-rainbow.jpg
