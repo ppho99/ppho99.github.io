@@ -18,7 +18,7 @@
 
 - 点击image，得知A是`塞尔维亚`
 
-![Advanced-work01-02](media/Advanced-work01-02.png)
+![Advanced-work01-02](http://www.jinhuaji.net/hufeng/document/photo.hf.com/imageadvanced-work01-02.png)
 
 - 解开B的迷底
 
