@@ -26,13 +26,7 @@ tags:
 
 问题1:涉及这个内容的课件在：Ch1 信息分析概论-课程设计理念-课程理念说明
 
-课件中的对应图片是：
-
-![](https://static.openmindclub.com/openmindclub/2018-10-01-PicIA002CH1Yang%20.005.jpeg)
-
 问题15:考察全局认识的四个方面：
-
-![](https://static.openmindclub.com/openmindclub/2018-10-01-PicIA002CH1Yang%20.046.jpeg)
 
 本题不涉及`伦理道德`，故选ABD。
 
@@ -117,7 +111,7 @@ $$ 40\times 5^2 = 1000 $$
 问题8:“东北 or 黑龙江 or 吉林”范围最大，故选B。
 
 问题9:AU=author(作者）;JN=journal（期刊）;SU=subject（主题）;AB=abstract（摘要）
-![](http://cardstatic.openmindclub.com//18-4-22/11046421.jpg)
+
 选D。
 
 问题10:OR的作用选C。
