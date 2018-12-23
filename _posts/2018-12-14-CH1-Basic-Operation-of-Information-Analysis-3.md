@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      信息分析三期基础作业攻略
+title:      信息分析三期CH1基础作业攻略
 subtitle:   具备上帝视角的方法论
 date:       2018-12-14
 author:     Hu Feng
