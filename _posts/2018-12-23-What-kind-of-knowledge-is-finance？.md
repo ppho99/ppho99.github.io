@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      金融学到底是一门怎样的学问？
-subtitle:   行家一出手就知有没有
+subtitle:   一半的留学生是金融专业，你信吗？
 date:       2018-12-23
 author:     Hu Feng
 header-img: img/finance.jpg
