@@ -204,7 +204,7 @@ tags:
 
 在人格心理学的应用上，我们发掘了美国心理学会的年度赞助商：
 
-![sponsor-of-spsp](http:/www.jinhuaji.net/sponsor-of-spsp.png)
+![sponsor-of-spsp01](http://www.jinhuaji.net/sponsor-of-spsp01.png?imageView2/2/w/1000/format/jpg|imageMogr2/size-limit/100k!)
 
 结论是：**脸书、迪斯尼、出版商、社区、旅游等企业已多年前开始赞助，说明与人打交道的创意产业，已有捷足先登者。**
 
