@@ -219,7 +219,7 @@ tags:
 
 我们把人格心理学的应用总结为两类模型：
 
-![FutureOfBp](http://www.jinhuaji.net/FutureOfBp.png?imageView2/2/w/800/format/jpg|imageMogr2/size-limit/100k!)
+![FutureOfBp](http://www.jinhuaji.net/FutureOfBp.png)
 
 由于时间紧张，在商业的创造力模型和职业的胜任力模型上，我们的研究还很肤浅，希望未来可以补上这一课。
 
