@@ -9,6 +9,7 @@ catalog: true
 tags:
     - Finance
     - biz
+    - personality psychology
 ---
 
 2019年1月22日，开智学堂第3期信息分析课有6个项目路演，人格心理学全局认识小组第二个出场。
@@ -34,7 +35,7 @@ tags:
 
 ## 心之所向 素履以往
 
-某天，阳老师在微信群灌水：
+某天，阳老师在微信群讲(guan)课(shui)：
 
 ![psychology-inherit-of-china](http://www.jinhuaji.net/psychology-inherit-of-china.jpeg?imageMogr2/size-limit/100k!)
 
@@ -43,9 +44,9 @@ tags:
 
 我本人一直对心理学感兴趣，从事多年金融支付及大数据应用工作，对新产品流行的心理学视角尤甚。
 
-当看到阳老师post这一信息的时候，就毫不犹豫地报了名。
-
 ![start-of-personality-psychology-bp](http://www.jinhuaji.net/start-of-personality-psychology-bp.jpeg?imageMogr2/size-limit/100k!)
+
+当看到阳老师post这一信息的时候，就毫不犹豫地报了名。
 
 ## 莫等闲，没了电，空悲切
 
@@ -57,18 +58,22 @@ tags:
 **不到4个小时，组队完毕！**
 
 **功夫熊猫**，项目队长，金融从业者，也是被称为小哥哥的熊猫大叔；
+
 **胡丽**，医疗咨询行业项目管理，希望通过对人格心理学的全局认识，而后改变自己固有的行为模式并进而影响他人，掌握对一个学科建立最小全局认识的方法和策略。
+
 **Liling**,金融保险从业人员，积累多年产品设计和开发经验；希望以“人格心理学”bp大作业为支点，深入学习心理学，更好地了解人、认识人、分析行为习惯。
+
 **小简**，团队最年青成员，曾有近4年的教育工作背景，最近重投教育行业，渴望改善自己的行动模式，也希望通过了解“人”促进自身故事创作技能。
+
 **筱颜**，就职于上海某医疗行业企划部，从2011年开始系统学习心理学，并于2014年考取了国家二级心理咨询师资格证，主要方向心理动力学疗法，擅长亲子教育、婚姻情感咨询和职业规划咨询等。
 
 - 因为5个成员在4个城市，且连线像数字7,我们团队取名：七五战队！
 
-![BpCity](http://www.jinhuaji.net/BpCity.png?imageView2/2/w/1000/format/jpg|imageMogr2/size-limit/100k!)
+![BpCity](http://www.jinhuaji.net/BpCity.png)
 
 - 这是我们的队标：
 
-![七五图标](http://www.jinhuaji.net/%E4%B8%83%E4%BA%94%E5%9B%BE%E6%A0%87.png?imageView2/2/w/1000/format/jpg|imageMogr2/size-limit/100k!)
+![七五图标](http://www.jinhuaji.net/%E4%B8%83%E4%BA%94%E5%9B%BE%E6%A0%87.png)
 
 ## 生如逆旅 一苇以航
 
@@ -84,7 +89,7 @@ tags:
 
 ![BpPlan02](http://www.jinhuaji.net/BpPlan02-1.jpeg?imageMogr2/size-limit/100k!)
 
-团队成员都希望完成CH4的作业，当一再被同伴们询问项目哪天开始的时候，我的心情是悲痛的！
+团队成员都希望完成CH4的作业，**当一再被同伴们询问项目哪天开始的时候，我的心情是悲催的！**
 
 ![BpPlan03](http://www.jinhuaji.net/BpPlan03-1.jpeg?imageMogr2/size-limit/100k!)
 
@@ -199,7 +204,7 @@ tags:
 
 在人格心理学的应用上，我们发掘了美国心理学会的年度赞助商：
 
-![sponsor-of-spsp](http:/www.jinhuaji.net/sponsor-of-spsp.png?imageView2/2/w/1000/format/jpg|imageMogr2/size-limit/100k!)
+![sponsor-of-spsp](http:/www.jinhuaji.net/sponsor-of-spsp.png)
 
 结论是：**脸书、迪斯尼、出版商、社区、旅游等企业已多年前开始赞助，说明与人打交道的创意产业，已有捷足先登者。**
 
@@ -214,7 +219,7 @@ tags:
 
 我们把人格心理学的应用总结为两类模型：
 
-![FutureOfBp](http://www.jinhuaji.net/FutureOfBp.png?imageView2/2/w/1000/format/jpg|imageMogr2/size-limit/100k!)
+![FutureOfBp](http://www.jinhuaji.net/FutureOfBp.png?imageView2/2/w/800/format/jpg|imageMogr2/size-limit/100k!)
 
 由于时间紧张，在商业的创造力模型和职业的胜任力模型上，我们的研究还很肤浅，希望未来可以补上这一课。
 

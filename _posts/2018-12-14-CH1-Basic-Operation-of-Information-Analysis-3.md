@@ -9,7 +9,6 @@ catalog: true
 tags:
     - cognitive science
     - Information Analysis
-    - ACH
 ---
 
 # 信息分析三期基础作业攻略

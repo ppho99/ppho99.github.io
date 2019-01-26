@@ -10,7 +10,6 @@ tags:
     - cognitive science
     - Psychology of intelligence analysis
     - Analysis of competing hypotheses
-    - ACH
 ---
 
 
