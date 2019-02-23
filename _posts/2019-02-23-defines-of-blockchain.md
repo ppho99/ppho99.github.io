@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      什么是区块链（Blockchain）？
-subtitle:  Who am I ?
+title:      什么是区块链？
+subtitle:  What is a blockchain ? 
 date:       2019-02-23
 author:     Hu Feng
 header-img: img/pexels-photo-351961.jpeg
