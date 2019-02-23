@@ -7,7 +7,7 @@ author:     Hu Feng
 header-img: img/pexels-photo-351961.jpeg
 catalog: true
 tags:
-    - Blockchain
+    - blockchain
     - biz
 ---
 
