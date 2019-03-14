@@ -17,7 +17,7 @@ tags:
 地球上每个角落，每时每刻有条不紊地运作。人除了是基因和模因的生存机器，还是分析的生成机器。我们每天遇到不同的人、面对不同的情况、做出一个又一个决定。
 怎样做出高质量的分析？《情报分析心理学》这本书为你我打开一扇窗，展示了不一样的洞见。
 
-![](![https://github.com/ppho99/ppho99.github.io/blob/master/img/Psychology-of-intelligence-analysis.jpg)
+![](http://www.jinhuaji.net/hufeng/document/photo.hf.com/imagepsychology-of-intelligence-analysis.jpg)
 
 ## 枪炮和玫瑰，还有什么打动你？
 
