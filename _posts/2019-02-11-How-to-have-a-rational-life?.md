@@ -317,6 +317,9 @@ tags:
 ---
 愿你像查理.芒格一样拥有理性的心智模式，取得世俗的成功，让Money为你工作；拥有幸福的家庭生活，健康地活到90+；当后辈问询生活的智慧时，你能从容地答出两个字：**理性**。
 
+![backlit-clouds-dusk-853168](http://www.jinhuaji.net/backlit-clouds-dusk-853168.jpg?imageMogr2/size-limit/100k!)
+
+
 ## CHANGELOG
 
 - 20190324 再修订
