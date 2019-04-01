@@ -26,26 +26,26 @@ tags:
 ## Part2:对清单的解读
 - 首批获得备案公告的公司有165家，获得备案的区块链服务项目有197项，这165家企业注册于18个省（直辖市），其中北京、广东、上海、浙江和江苏排前5位。
 
-<center>![备案企业数量-按省](http://www.jinhuaji.net/2019-04-01-%E5%A4%87%E6%A1%88%E4%BC%81%E4%B8%9A%E6%95%B0%E9%87%8F-%E6%8C%89%E7%9C%81.png)</center> 
+<div align=center>![备案企业数量-按省](http://www.jinhuaji.net/2019-04-01-%E5%A4%87%E6%A1%88%E4%BC%81%E4%B8%9A%E6%95%B0%E9%87%8F-%E6%8C%89%E7%9C%81.png)</div> 
 
 - 其中有18家公司获得最多5项、最少2项服务备案公告，有147家公司各获得1项服务备案公告。
-<center>![NameOfCompany](http://www.jinhuaji.net/2019-04-01-NameOfCompany.png)</center> 
+<div align=center>![NameOfCompany](http://www.jinhuaji.net/2019-04-01-NameOfCompany.png)</div> 
 
 - 18家公司备案公告的服务数量达50项，占全体服务的25.4%；这18家公司按省分布：北京6家、广东4家、浙江2家、江苏2家、山东、四川、海南、陕西各1家
-<center>![备案服务数量按公司分布](http://www.jinhuaji.net/2019-04-01-%E5%A4%87%E6%A1%88%E6%9C%8D%E5%8A%A1%E6%95%B0%E9%87%8F%E6%8C%89%E5%85%AC%E5%8F%B8%E5%88%86%E5%B8%83.png)</center> 
+<div align=center>![备案服务数量按公司分布](http://www.jinhuaji.net/2019-04-01-%E5%A4%87%E6%A1%88%E6%9C%8D%E5%8A%A1%E6%95%B0%E9%87%8F%E6%8C%89%E5%85%AC%E5%8F%B8%E5%88%86%E5%B8%83.png)</div>
 
 - 已备案公告的区块链服务
     - 将所有获得备案的区块链项目名称进行词云分析，字体越大、颜色越红的代表词频越高
 
-<center>![区块链项目名称词云](http://www.jinhuaji.net/2019-04-01-%E5%8C%BA%E5%9D%97%E9%93%BE%E9%A1%B9%E7%9B%AE%E5%90%8D%E7%A7%B0%E8%AF%8D%E4%BA%91.png)</center> 
+<div align=center>![区块链项目名称词云](http://www.jinhuaji.net/2019-04-01-%E5%8C%BA%E5%9D%97%E9%93%BE%E9%A1%B9%E7%9B%AE%E5%90%8D%E7%A7%B0%E8%AF%8D%E4%BA%91.png)</div> 
 
 - 首批197项区块链服务获得备案公告，各省分布情况如下：
 
-<center>![已备案区块链服务数-按省分](http://www.jinhuaji.net/2019-04-01-%E5%B7%B2%E5%A4%87%E6%A1%88%E5%8C%BA%E5%9D%97%E9%93%BE%E6%9C%8D%E5%8A%A1%E6%95%B0-%E6%8C%89%E7%9C%81%E5%88%86.png)</center> 
+<div align=center>![已备案区块链服务数-按省分](http://www.jinhuaji.net/2019-04-01-%E5%B7%B2%E5%A4%87%E6%A1%88%E5%8C%BA%E5%9D%97%E9%93%BE%E6%9C%8D%E5%8A%A1%E6%95%B0-%E6%8C%89%E7%9C%81%E5%88%86.png)</div> 
 
 - 分析获得备案公告的区块链项目名称关键词，前40位的名词如下表，`存证`、`溯源`、`版权`、`BaaS`、`金融`、`供应链`、`积分`、`防伪`、`保全`等应用在前列。
 
-<center>![区块链服务频率01](http://www.jinhuaji.net/2019-04-01-%E5%8C%BA%E5%9D%97%E9%93%BE%E6%9C%8D%E5%8A%A1%E9%A2%91%E7%8E%8701.png)</center> 
+<div align=center>![区块链服务频率01](http://www.jinhuaji.net/2019-04-01-%E5%8C%BA%E5%9D%97%E9%93%BE%E6%9C%8D%E5%8A%A1%E9%A2%91%E7%8E%8701.png)</div> 
 
 ## Part3:对企业和用户的启示
 
