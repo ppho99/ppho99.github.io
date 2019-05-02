@@ -8,7 +8,6 @@ header-img: img/leaves-fall-colors-rainbow.jpg
 catalog: true
 tags:
     - cognitive science
-    - Psychology of intelligence analysis
     - Analysis of competing hypotheses
 ---
 

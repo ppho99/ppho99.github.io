@@ -9,6 +9,7 @@ catalog: true
 tags:
     - Finance
     - biz
+    - cognitive science
 ---
 
 [toc]
