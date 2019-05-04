@@ -18,13 +18,13 @@ sidebar-avatar: /img/about-BY-gentle.jpg    # use absolute URL, seeing it's used
 
 # SNS settings
 RSS: false
-weibo_username:   ppho
-# zhihu_username:     ppho99
+weibo_username:   #ppho
+# zhihu_username:     #hu-feng
 github_username:    ppho99
-# facebook_username:  ppho99
-twitter_username:   ppho99
-# jianshu_username:   6f4aca2f974e
-weixin_username:   gh_2b1d3ead3be4
+# facebook_username:  #ppho99
+twitter_username:   #ppho99
+# jianshu_username:   #6f4aca2f974e
+weixin_username:   #ppho99
 
 
 
@@ -99,12 +99,6 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "珈瑜的博客",
-        href: "https://kkjiayu.github.io/"
-    },{
-        title: "树长在云里",
-        href: "http://www.huyuning.com/"
-    },{
         title: "Apple",
         href: "https://apple.com"
     },{
