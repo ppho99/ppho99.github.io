@@ -4,7 +4,7 @@ title:      发现49项心理/社会学效应，读懂《畅销的原理》
 subtitle:   别样营销思维
 date:       2019-05-04
 author:     Hu Feng
-header-img: img/marketing03.jpg)
+header-img: img/marketing03.jpg
 catalog: true
 tags:
     - biz
