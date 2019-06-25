@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      世界通用数字货币Libra的拆解与应对
-subtitle:   新时代的大门已打开
+subtitle:   从Libra套利，与数字经济共舞
 date:       2019-06-26
 author:     Hu Feng
 header-img: img/pen.jpeg
