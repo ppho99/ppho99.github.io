@@ -13,6 +13,8 @@ tags:
 
 2019年6月18日，Libra白皮书发布了。很多人认为这就是Facebook发的Q币，[脸书发了个Q币，整个币圈都在大呼小叫](https://mp.weixin.qq.com/s/N3MKhDZlEbCmov3eDdE8DA)，也有人认为这和特别提款权（SDR）很相似，还有人把Libra与各种山寨数字币相提并论。
 
+![libra-logo](http://www.jinhuaji.net/2019-06-26-libra-logo.png)
+
 笔者认为：**Libra是一款证券化的世界通用货币，如果做成了，将是一个改变世界的产品**。
 
 Libra的出现是**区块链技术发展、资产证券化和货币数字化**共同作用的结果，对中国数字货币的发展和人民币国际化都将产生重大影响，金融监管部门、金融科技行业都应重视Libra，正本清源方能寻找有效的对策。
