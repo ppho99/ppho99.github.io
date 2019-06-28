@@ -180,7 +180,7 @@ Libra的出现提供了一种全新的数字货币设计思路。如果我国数
 - [支付机构预付卡业务管理办法](http://www.gov.cn/gzdt/att/att/site1/20120927/1c6f6506c5d511ce7e4b01.pdf)
 - [单用途商业预付卡管理办法（试行）](http://www.mofcom.gov.cn/article/swfg/swfgbh/201303/20130300062950.shtml)
 - [商务部办公厅关于进一步加强单用途商业预付卡管理工作的通知](http://www.mofcom.gov.cn/article/fgsjk/201603/20160302649447.shtml)
-- [周小川谈数字货币和电子支付]()
+- [周小川谈数字货币和电子支付](http://topics.caixin.com/2018-11-21/101350169.html)
 - [范一飞：关于央行数字货币的几点考虑](https://www.yicai.com/news/5395409.html)
 - 李文红、蒋则沈：金融科技(FinTech)发展与监管:一个监管者的视角，《金融监管研究》2017年第3期
 - 姚 前、汤莹玮：关于央行法定数字货币的若干思考，《金融研究》2017年第7期
