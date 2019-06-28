@@ -134,7 +134,8 @@ Libra对区块链的解释是：**区块链是一种可在对等网络上安全�
 > Libra区块链是一个加密认证的分布式数据库，它基于Libra协议。
 
 - Libra区块链当下是许可型区块链，也就是常说的联盟链；将来的愿景是非许可型区块链，即公有链。
-- Libra的共识采用的是LibraBFT共识，LibraBFT基于HotStuff，这是一项新型的拜占庭容错（BFT）算法，能防止双花和分叉攻击，在扩展性和一致性上达到了较高水平。LibraBFT进一步完善了HotStuff协议，引入了明确的活跃度机制，并提供了具体的延迟分析。
+- Libra的共识采用的是LibraBFT共识，LibraBFT基于HotStuff，这是一项新型的拜占庭容错（BFT）算法，能防止双花和分叉攻击，在扩展性和一致性上达到了较高水平
+- LibraBFT进一步完善了HotStuff协议，引入了明确的活跃度机制，并提供了具体的延迟分析。
 - Libra区块链有账户概念，由账户地址标识，账户地址是用户的公钥加密哈希，256位值。
 - Libra协议的核心是两个基本概念 - 交易和状态。在任何时间点，区块链都具有“状态”。状态（或分类帐状态）表示链上数据的当前快照。执行事务会更改区块链的状态。
 - Libra区块链使用一种新发明的编程语言————Move实现自定义交易和智能合约。
@@ -170,6 +171,27 @@ Libra的出现提供了一种全新的数字货币设计思路。如果我国数
     - 为了规避未来国内的监管风险，企业可能会考虑采用VIE架构。
 
 新时代的大门已经打开，Libra的征途是星辰大海，*未来的数字货币是一枝独秀还是百花齐放，产业界和监管机构怎样协同，用户的便捷与隐私保护怎样平衡*，这些疑问我们将拭目以待！
+
+## 参考资料
+
+- [文化部、商务部关于加强网络游戏虚拟货币管理工作的通知（文市发[2009]20号）](http://www.ccm.gov.cn/zgwhscw/gfxwj/200909/201521d69bd949e8bc228aa881f3a7f8.shtml)
+- [文化部关于规范网络游戏运营加强事中事后监管工作的通知（文市发〔2016〕32号）](http://www.gov.cn/xinwen/2016-12/06/content_5143968.htm)
+- [人民银行制定《支付机构预付卡业务管理办法》](http://www.gov.cn/gzdt/2012-09/27/content_2234657.htm)
+- [支付机构预付卡业务管理办法](http://www.gov.cn/gzdt/att/att/site1/20120927/1c6f6506c5d511ce7e4b01.pdf)
+- [单用途商业预付卡管理办法（试行）](http://www.mofcom.gov.cn/article/swfg/swfgbh/201303/20130300062950.shtml)
+- [商务部办公厅关于进一步加强单用途商业预付卡管理工作的通知](http://www.mofcom.gov.cn/article/fgsjk/201603/20160302649447.shtml)
+- [周小川谈数字货币和电子支付]()
+- [范一飞：关于央行数字货币的几点考虑](https://www.yicai.com/news/5395409.html)
+- 李文红、蒋则沈：金融科技(FinTech)发展与监管:一个监管者的视角，《金融监管研究》2017年第3期
+- 姚 前、汤莹玮：关于央行法定数字货币的若干思考，《金融研究》2017年第7期
+- 弗雷德里克·S·米什金.货币金融学（第十一版）.中国人民大学出版社.2016年09月
+- [美]威廉·戈兹曼（William N. Goetzmann）.千年金融史.中信出版社.中信出版社 
+- (美国)悉尼·霍默、(美国)理查德·西勒.利率史(第4版).中信出版社.2010年01月
+- [Libra白皮书](https://libra.org/zh-CN/white-paper/)
+- [Libra 储备](https://libra.org/zh-CN/about-currency-reserve/#the_reserve)
+- [The Libra Blockchain](https://developers.libra.org/docs/the-libra-blockchain-paper)
+- [Libra 协会](https://libra.org/zh-CN/association-council-principles/#overview)
+
 
 ## CHANGELOG
 
